@@ -31,12 +31,11 @@
 
 ### 🛠 Languages & Tools  
 
-| Category          | Technologies |
-|-------------------|--------------|
-| **Frontend**      | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ![React Native](https://reactnative.dev/img/header_logo.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) |
-| **Backend**       | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) |
-| **Databases**     | ![MSSQL](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg) ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) |
-| **Other Tools**   | ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) |
+Category	Technologies
+Frontend	<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' width='24'/> <img src='https://reactnative.dev/img/header_logo.svg' width='24'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='24'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' width='24'/> <img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' width='24'/> <img src='https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg' width='24'/>
+Backend	<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' width='24'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg' width='24'/>
+Databases	<img src='https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg' width='24'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg' width='24'/>
+Other Tools	<img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' width='24'/> <img src='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg' width='24'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' width='24'/> <img src='https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg' width='24'/>
 
 ---
 
