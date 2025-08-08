@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Moeez</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">🚀 A Passionate Developer from Pakistan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdulmoeez&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -40,23 +40,24 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulmoeez&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmoeez&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoeez&layout=compact&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=abdulmoeez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdulmoeez&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoeez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulmoeez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdulmoeez&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=abdulmoeez&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ---
 
