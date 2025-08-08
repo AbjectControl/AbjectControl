@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Moeez</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+
+- 💬 Ask me about **react, nodejs, react-native**
 
 - 📫 How to reach me **amoeez6500@gmail.com**
 
