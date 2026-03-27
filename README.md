@@ -13,7 +13,6 @@
 - 💬 Ask me about **React, Node.js, Flutter**
 - 📫 Reach me at **amoeez6500@gmail.com**
 - 🌱 Currently exploring **Advanced Flutter & Backend Architecture**
-- 🎯 Goal for 2025: **Build and launch my own SaaS product**
 
 ---
 
